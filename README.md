@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
  
 The criteria for this vacation is finding the preferred cities and hotels in places with the following temperature:
  - minimum temperature of 60 and;
